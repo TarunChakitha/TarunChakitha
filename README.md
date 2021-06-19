@@ -9,7 +9,9 @@ I'm an undergrad pursuing Computer Science Engineering at National Institute of 
 
 ### Interesting stats
 
-![Tarun's stats](https://github-readme-stats.vercel.app/api?username=tarunchakitha&show_icons=true)
+![Tarun's stats](https://github-readme-stats.vercel.app/api?username=tarunchakitha&show_icons=true&theme=radical)
+
+[![Tarun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunchakitha&theme=radical)](https://github.com/tarunchakitha/github-readme-stats)
 
 <!--
 **TarunChakitha/TarunChakitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
